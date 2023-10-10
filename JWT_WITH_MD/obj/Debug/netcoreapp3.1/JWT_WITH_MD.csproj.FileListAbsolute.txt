@@ -1,0 +1,158 @@
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.csproj.AssemblyReference.cache
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.AssemblyInfoInputs.cache
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.AssemblyInfo.cs
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.csproj.CoreCompileInputs.cache
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.MvcApplicationPartsAssemblyInfo.cs
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.MvcApplicationPartsAssemblyInfo.cache
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.StaticWebAssets.xml
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.exe
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.deps.json
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.runtimeconfig.json
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.runtimeconfig.dev.json
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.pdb
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\JWT_WITH_MD.StaticWebAssets.Manifest.cache
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\JWT_WITH_MD.StaticWebAssets.Pack.cache
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.JWT_WITH_MD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.JWT_WITH_MD.props
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.JWT_WITH_MD.props
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.JWT_WITH_MD.props
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\JWT_WITH_MD.StaticWebAssets.xml
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.RazorTargetAssemblyInfo.cache
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.csproj.CopyComplete
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.dll
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.pdb
+D:\WEB_API_01\TEST_HOME\JWT_WITH_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.genruntimeconfig.cache
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.StaticWebAssets.xml
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.exe
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.deps.json
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.runtimeconfig.json
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.runtimeconfig.dev.json
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\JWT_WITH_MD.pdb
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.csproj.AssemblyReference.cache
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.AssemblyInfoInputs.cache
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.AssemblyInfo.cs
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.csproj.CoreCompileInputs.cache
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\JWT_WITH_MD.StaticWebAssets.Manifest.cache
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\JWT_WITH_MD.StaticWebAssets.Pack.cache
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.JWT_WITH_MD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.JWT_WITH_MD.props
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.JWT_WITH_MD.props
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.JWT_WITH_MD.props
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\staticwebassets\JWT_WITH_MD.StaticWebAssets.xml
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.RazorTargetAssemblyInfo.cache
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.csproj.CopyComplete
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.dll
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.pdb
+C:\Users\Minhaj c#\Desktop\FINAL_One_Master_Details_JWT\FINAL_Test_JWT_MD\JWT_WITH_MD\obj\Debug\netcoreapp3.1\JWT_WITH_MD.genruntimeconfig.cache
